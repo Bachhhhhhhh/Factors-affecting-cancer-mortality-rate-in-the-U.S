@@ -52,9 +52,3 @@ The model's coefficients reveal several significant predictors:
 
 The Breusch-Pagan test yielded a p-value of 0.128, failing to reject the null hypothesis of homoscedasticity. This result confirms that the model's residuals have a constant variance, satisfying a critical assumption for OLS regression.
 
-## 4.0 Technologies Used
-*   **Language:** Python 3
-*   **Libraries:**
-    *   **Data Wrangling:** Pandas, NumPy
-    *   **Statistical Modeling:** Statsmodels
-    *   **Visualization:** Matplotlib, Seaborn
